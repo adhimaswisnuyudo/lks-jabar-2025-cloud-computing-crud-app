@@ -9,6 +9,11 @@ A simple CRUD web app using Node.js, Express, Sequelize (MySQL), and EJS templat
 - MySQL backend
 - Ready for AWS EC2 + RDS deployment
 
+## Warning
+- Pastikan anda sudah membuat Database
+- Silahkan sesuaikan koneksi DB pada file config/db.js
+- Table Akan dibuat secara otomatis apabila koneksi berhasil
+
 ## Install
 
 ```bash
